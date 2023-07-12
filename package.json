@@ -1,0 +1,16 @@
+{
+  "name": "sysinfo",
+  "version": "1.0.0",
+  "description": "simple node.js executable file to see system information",
+  "main": "sysinfo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Bardia-Phoenix",
+  "license": "ISC",
+  "dependencies": {
+    "readline": "^1.3.0",
+    "systeminformation": "^5.18.6"
+  }
+}
